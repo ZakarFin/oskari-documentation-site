@@ -145,7 +145,7 @@ export default function CommunityPage() {
           organisational members providing funding for joint development,
           communication and bug fixing.
         </Text>
-        <Text>Joint Development Forum, JDF, meets on a monthly basis.</Text>
+        <Text>Joint Development Forum, JDF, meets on a monthly basis. TODO: how to join?</Text>
         <div className='flex flex-wrap justify-center py-14 gap-x-8 gap-y-16 w-full'>
           {jointLogos.map((logo) => (
             <Image
